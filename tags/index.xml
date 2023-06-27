@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blist Multilingual Theme</title>
+    <title>Tags on Quantum Forest</title>
     <link>https://lmpawan10.github.io/qblogs.github.io/tags/</link>
-    <description>Recent content in Tags on Blist Multilingual Theme</description>
+    <description>Recent content in Tags on Quantum Forest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://lmpawan10.github.io/qblogs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jun 2023 11:10:27 +0900</lastBuildDate><atom:link href="https://lmpawan10.github.io/qblogs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/about/</link>
+      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithm</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/algorithm/</link>
+      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogs</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/blogs/</link>
+      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/quantum/</link>
+      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/software/</link>
+      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qiskit</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/qiskit/</link>
+      <pubDate>Tue, 27 Jun 2023 11:09:01 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/qiskit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transpiler</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/transpiler/</link>
+      <pubDate>Tue, 27 Jun 2023 11:09:01 +0900</pubDate>
+      
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/transpiler/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

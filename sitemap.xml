@@ -2,10 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lmpawan10.github.io/qblogs.github.io/</loc>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/about/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
   </url><url>
-    <loc>https://lmpawan10.github.io/qblogs.github.io/categories/</loc>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/page/about/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/algorithm/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/blogs/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/page/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/quantum/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/software/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
   </url><url>
     <loc>https://lmpawan10.github.io/qblogs.github.io/tags/</loc>
+    <lastmod>2023-06-27T11:10:27+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/blog/</loc>
+    <lastmod>2023-06-27T11:09:01+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/qiskit/</loc>
+    <lastmod>2023-06-27T11:09:01+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/tags/transpiler/</loc>
+    <lastmod>2023-06-27T11:09:01+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/blog/qiskit_transpiler/</loc>
+    <lastmod>2023-06-27T11:09:01+09:00</lastmod>
+  </url><url>
+    <loc>https://lmpawan10.github.io/qblogs.github.io/categories/</loc>
   </url>
 </urlset>

@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantum Forest</title>
-    <link>https://lmpawan10.github.io/qblogs.github.io/</link>
-    <description>Recent content on Quantum Forest</description>
+    <title>transpiler on Quantum Forest</title>
+    <link>https://lmpawan10.github.io/qblogs.github.io/tags/transpiler/</link>
+    <description>Recent content in transpiler on Quantum Forest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 11:10:27 +0900</lastBuildDate><atom:link href="https://lmpawan10.github.io/qblogs.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://lmpawan10.github.io/qblogs.github.io/page/about/</link>
-      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
-      
-      <guid>https://lmpawan10.github.io/qblogs.github.io/page/about/</guid>
-      <description>Hey you!</description>
-    </item>
-    
+    <lastBuildDate>Tue, 27 Jun 2023 11:09:01 +0900</lastBuildDate><atom:link href="https://lmpawan10.github.io/qblogs.github.io/tags/transpiler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Qiskit Transpiler</title>
       <link>https://lmpawan10.github.io/qblogs.github.io/blog/qiskit_transpiler/</link>
