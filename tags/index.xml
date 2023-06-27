@@ -8,29 +8,11 @@
     <language>en</language>
     <lastBuildDate>Tue, 27 Jun 2023 11:10:27 +0900</lastBuildDate><atom:link href="https://lmpawan10.github.io/qblogs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>about</title>
-      <link>https://lmpawan10.github.io/qblogs.github.io/tags/about/</link>
+      <title>algorithms</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/algorithms/</link>
       <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
       
-      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>algorithm</title>
-      <link>https://lmpawan10.github.io/qblogs.github.io/tags/algorithm/</link>
-      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
-      
-      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blogs</title>
-      <link>https://lmpawan10.github.io/qblogs.github.io/tags/blogs/</link>
-      <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
-      
-      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/blogs/</guid>
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/algorithms/</guid>
       <description></description>
     </item>
     
@@ -44,11 +26,11 @@
     </item>
     
     <item>
-      <title>software</title>
-      <link>https://lmpawan10.github.io/qblogs.github.io/tags/software/</link>
+      <title>tech-blogs</title>
+      <link>https://lmpawan10.github.io/qblogs.github.io/tags/tech-blogs/</link>
       <pubDate>Tue, 27 Jun 2023 11:10:27 +0900</pubDate>
       
-      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/software/</guid>
+      <guid>https://lmpawan10.github.io/qblogs.github.io/tags/tech-blogs/</guid>
       <description></description>
     </item>
     

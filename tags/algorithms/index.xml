@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Quantum Forest</title>
-    <link>https://lmpawan10.github.io/qblogs.github.io/page/</link>
-    <description>Recent content in Pages on Quantum Forest</description>
+    <title>algorithms on Quantum Forest</title>
+    <link>https://lmpawan10.github.io/qblogs.github.io/tags/algorithms/</link>
+    <description>Recent content in algorithms on Quantum Forest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 11:10:27 +0900</lastBuildDate><atom:link href="https://lmpawan10.github.io/qblogs.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 11:10:27 +0900</lastBuildDate><atom:link href="https://lmpawan10.github.io/qblogs.github.io/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://lmpawan10.github.io/qblogs.github.io/page/about/</link>
